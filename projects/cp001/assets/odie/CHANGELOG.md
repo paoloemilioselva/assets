@@ -1,5 +1,9 @@
 # Versions
 
+## [v02]
+
+Fixed orientation and added GeomSubsets for material binding from original `shot_materialpath` attribute.
+
 ## [v01]
 
 Initial version of the asset `odie` for the `collectiveproject001`.
